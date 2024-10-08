@@ -7,4 +7,4 @@ h/t to @bennieiv for directing me to an estate sale with a 27" Sony WEGA Trinitr
 
 Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for this effect (though all flat CRTs are susceptible). [CRT Database](https://crtdatabase.com/faq/adjusting-the-yoke-on-a-flat-crt-to-fix-bowing) has an excellent article on this. Yokes and that.
 
-![Bowed television picture](/images/tv-bowed-image-mgs.jpg "Bowed television picture")
+![Bowed television picture](/blog/images/tv-bowed-image-mgs.jpg "Bowed television picture")
