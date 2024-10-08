@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Up Phosphor Beam Hill
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+h/t to @bennieiv for directing me to an estate sale with a 27" Sony WEGA Trinitron ($5!). The scanline geometry is a bit ...wonky, but easy to ignore. I lack the knowledge, time, tools, and interest to do anything about it, and for $5, what's the difference? It could very well be the case this is how all flat-panel CRTs look. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for this effect (though all flat CRTs are susceptible). [CRT Database](https://crtdatabase.com/faq/adjusting-the-yoke-on-a-flat-crt-to-fix-bowing) has an excellent article on this. Yokes and that.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![Bowed television picture](/assets/images/tv-bowed-image-mgs.jpg "Bowed television picture")
