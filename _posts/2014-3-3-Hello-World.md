@@ -11,25 +11,35 @@ Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for th
 
 <sup>Bowing prevalent on the right side bottom.</sup>
 
-### Sony Sony KV-24FV12 — selected facts from the ![Sony KV-24FV12](https://crtdatabase.com/crts/sony/sony-kv-24fv12)
+### Sony Sony KV-24FV12 — selected facts from [CRT Database](https://crtdatabase.com/crts/sony/sony-kv-24fv12)
 
-| Property          | Attribute              |
-| ----------------- | ---------------------- |
-| High              | Low                    |
-| Series            | Wega                   |
-| Viewable Size     | 24"                    |
-| Inputs            | Composite, S-Video, RF |
-| Resolutions       | 240p, 480i             |
-| Horiz. Scan Range | 15 kHz                 |
-| Vert. Scan Range  | 60 Hz                  |
-| Format            | NTSC                   |
-| Aspect Ratio      | 4:3                    |
-| Mask              | Aperture Grill         |
-| Speakers          | Stereo                 |
-| Weight            | 81 lbs                 |
-| Launched          | 2000                   |
-| Country of Mfg.   | Mexico                 |
+| Property           | Attribute               |
+|--------------------|-------------------------|
+| High               | Low                     |
+| Series             | Wega                    |
+| Viewable Size      | 24"                     |
+| Inputs             | Composite, S-Video, RF  |
+| Resolutions        | 240p, 480i              |
+| Horiz. Scan Range  | 15 kHz                  |
+| Vert. Scan Range   | 60 Hz                   |
+| Format             | NTSC                    |
+| Aspect Ratio       | 4:3                     |
+| Mask               | Aperture Grill          |
+| Speakers           | Stereo                  |
+| Weight             | 81 lbs                  |
+| Launched           | 2000                    |
+| Country of Mfg.    | Mexico                  | 
 
-> Like the 24FV300, the speakers used in this model are prone to foam rot and usually do not work properly. (ibid)
+> Like the 24FV300, the speakers used in this model are prone to foam rot and usually do not work properly. (Ibid.)
 
 Thankfully, the sound is excellent so far, but I'll listen for any changes.
+
+> Unlike the 27" and larger BA-5 Trinitrons, this TV does not have native component inputs. However, its jungle chip is very versatile and can be modified for RGB and YPbPr component video.
+
+I am in no hurry to mod this television, but it's nice to have options. Lastly:
+
+>Most of Sony's flat Trinitrons contain a velocity modulation circuit. VM enhances dark outlines on screen, which helps hide composite dot crawl and can make TV and movies look better. However, it ruins pixel art and significantly degrades the appearance of 2D games. On this model, it can be disabled in the user menu. (Ibid.)
+
+The picture looks fine to me, but I can check with Breath of Fire III to see if there is a difference with the setting turned off (I'm assuming it's on, if that's the default. The original owner — a man called Frank, whom I believe has passed — did not strike me as the type of man to fiddle with electronics [based on what the woman in charge of the estate sale told me]. I understand he was a brilliant carpenter, however. I enjoy woodworking, so it's a bit of a shame I could not meet the man and learn something from him).
+
+Rest in peace, Frank. Thanks for taking good care of the TV.
