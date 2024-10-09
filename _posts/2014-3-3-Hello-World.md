@@ -13,28 +13,28 @@ Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for th
 
 ### Sony Sony KV-24FV12 — selected facts from [CRT Database](https://crtdatabase.com/crts/sony/sony-kv-24fv12)
 
-| Property           | Attribute               |
-|--------------------|-------------------------|
-| High               | Low                     |
-| Series             | Wega                    |
-| Viewable Size      | 24"                     |
-| Inputs             | Composite, S-Video, RF  |
-| Resolutions        | 240p, 480i              |
-| Horiz. Scan Range  | 15 kHz                  |
-| Vert. Scan Range   | 60 Hz                   |
-| Format             | NTSC                    |
-| Aspect Ratio       | 4:3                     |
-| Mask               | Aperture Grill          |
-| Speakers           | Stereo                  |
-| Weight             | 81 lbs                  |
-| Launched           | 2000                    |
-| Country of Mfg.    | Mexico                  | 
+| Property          | Attribute              |
+|-------------------|-------------------------|
+| High              | Low                    |
+| Series            | Wega                   |
+| Viewable Size     | 24"                    |
+| Inputs            | Composite, S-Video, RF |
+| Resolutions       | 240p, 480i             |
+| Horiz. Scan Range | 15 kHz                 |
+| Vert. Scan Range  | 60 Hz                  |
+| Format            | NTSC                   |
+| Aspect Ratio      | 4:3                    |
+| Mask              | Aperture Grill         |
+| Speakers          | Stereo                 |
+| Weight            | 81 lbs                 |
+| Launched          | 2000                   |
+| Country of Mfg.   | Mexico                 |
 
 > Like the 24FV300, the speakers used in this model are prone to foam rot and usually do not work properly. (Ibid.)
 
 Thankfully, the sound is excellent so far, but I'll listen for any changes.
 
-> Unlike the 27" and larger BA-5 Trinitrons, this TV does not have native component inputs. However, its jungle chip is very versatile and can be modified for RGB and YPbPr component video.
+> Unlike the 27" and larger BA-5 Trinitrons, this TV does not have native component inputs. However, its jungle chip is very versatile and can be modified for RGB and YPbPr component video. (Ibid.)
 
 I am in no hurry to mod this television, but it's nice to have options. Lastly:
 
