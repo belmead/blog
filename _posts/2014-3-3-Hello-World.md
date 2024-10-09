@@ -11,7 +11,7 @@ Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for th
 
 <sup>Bowing prevalent on the right side bottom.</sup>
 
-### Sony Sony KV-24FV12 — selected facts from the ![CRT Databse](https://crtdatabase.com/crts/sony/sony-kv-24fv12 "CRT Database")
+### Sony Sony KV-24FV12 — selected facts from the ![Sony KV-24FV12](https://crtdatabase.com/crts/sony/sony-kv-24fv12)
 
 | Property          | Attribute              |
 | ----------------- | ---------------------- |
