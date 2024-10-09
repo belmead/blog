@@ -12,18 +12,24 @@ Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for th
 <sup>Bowing prevalent on the right side bottom.</sup>
 
 ### Sony Sony KV-24FV12 — selected facts from the ![CRT Databse](https://crtdatabase.com/crts/sony/sony-kv-24fv12 "CRT Database")
-|Property |Attribute|
-|---------|---------|
-|Series |Wega       |
-|Viewable Size  |24"      |
-|Inputs |Composite,  S-Vieo, RF |
-|Resolutions | 240p, 480i|
-|Horiz. Scan Range| 15 kHz|
-|Vert. Scan Range| 60 Hz|
-|Format| NTSC|
-|Aspect Ratio| 4:3|
-|Mask |Aperture Grill|
-|Speakers|Stereo|
-|Weight|81 lbs|
-|Launched|2000|
-|Country of Manufacture|Mexico|
+
+| Property          | Attribute              |
+| ----------------- | ---------------------- |
+| High              | Low                    |
+| Series            | Wega                   |
+| Viewable Size     | 24"                    |
+| Inputs            | Composite, S-Video, RF |
+| Resolutions       | 240p, 480i             |
+| Horiz. Scan Range | 15 kHz                 |
+| Vert. Scan Range  | 60 Hz                  |
+| Format            | NTSC                   |
+| Aspect Ratio      | 4:3                    |
+| Mask              | Aperture Grill         |
+| Speakers          | Stereo                 |
+| Weight            | 81 lbs                 |
+| Launched          | 2000                   |
+| Country of Mfg.   | Mexico                 |
+
+> Like the 24FV300, the speakers used in this model are prone to foam rot and usually do not work properly. (ibid)
+
+Thankfully, the sound is excellent so far, but I'll listen for any changes.
