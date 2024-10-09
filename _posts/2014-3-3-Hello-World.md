@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Up Phosphor Beam Hill
+title: Mexican Trinitron
 ---
 
 h/t to @bennieiv for directing me to an estate sale with a 27" Sony WEGA Trinitron ($5!). The scanline geometry is a bit ...wonky, but easy to ignore. I lack the knowledge, time, tools, and interest to do anything about it, and for $5, what's the difference? It could very well be the case this is how all flat-panel CRTs look. 
@@ -11,7 +11,19 @@ Edit: This is called bowing, and apparently Sony's Wega TVs are notorious for th
 
 <sup>Bowing prevalent on the right side bottom.</sup>
 
+### Sony Sony KV-24FV12 — selected facts from the ![CRT Databse](https://crtdatabase.com/crts/sony/sony-kv-24fv12 "CRT Database")
 |Property |Attribute|
 |---------|---------|
-|Test|wow       |
-|Test  |oh      |
+|Series |Wega       |
+|Viewable Size  |24"      |
+|Inputs |Composite,  S-Vieo, RF |
+|Resolutions | 240p, 480i|
+|Horiz. Scan Range| 15 kHz|
+|Vert. Scan Range| 60 Hz|
+|Format| NTSC|
+|Aspect Ratio| 4:3|
+|Mask |Aperture Grill|
+|Speakers|Stereo|
+|Weight|81 lbs|
+|Launched|2000|
+|Country of Manufacture|Mexico|
