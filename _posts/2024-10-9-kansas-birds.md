@@ -3,7 +3,7 @@ layout: post
 title: Birds in Kansas
 ---
 
-There's a walking trail on a for-sale plot of land contiguous to the corporate HQ where I work. I find it good and pleasing to walk this trail two or three times in the morning, depending on how warm it is.
+There's a walking trail on a for-sale plot of land contiguous to the corporate HQ where I work. I find it good and pleasing to walk this trail two or three times in the morning, and again in the afternoon, depending on how warm it is.
 
 The Lord's work is plainly evident on many mornings:
 
@@ -33,7 +33,9 @@ I reckon it's a Great Blue Heron based on the physical appearance:
 - Overall grayish-blue coloration
 - Large size (Great Blue Herons are one of the largest heron species in North America)
 
-Finding it near a body of water in this part of the Midwest at this time of year is also in line with GBH behavior.
+Finding it near a body of water in this part of the Midwest at this time of year is also in line with GBH behavior. They eat fish — hence this one's proximity to water when I took the picture — but I don't often see fish in the ponds.
+
+The ponds are artificial (best I can tell) and don't feed from a natural body of water, so I don't know where fish would come from unless they were introduced by man. I did see two small, black fish darting around in the southern pond the other day, but that's not a typical sight. 
 
 > Great Blue Herons are wading birds that hunt for fish, amphibians, and other small prey in shallow waters. They're known for their patient hunting style, often standing still or moving very slowly through the water before quickly striking at their prey. (claude.ai)
 
@@ -57,3 +59,17 @@ A House Finch. Probably a male (bright red coloration). House Finches are small 
 This is not a bird.
 
 This is Mammal, who lives in the pit? Dry retention pond? beyond our house. It's called Mammal because at the time we first saw him, neither my wife nor I knew what it was, so we settled on using the class name. We're now almost 100% positive Mammal is a woodchuck. They are also known as "whistlepigs." It has a funny run and eats flowers and grass.
+
+![Canada geese](https://belmead.github.io/blog/images/geese-1.jpg "Canada geese")
+
+This is a gaggle (or a "plump") of Canada geese. The ones that frequent the ponds are pretty docile, as dozens of people walk the trails daily, which I assume desensitizes them to human presence. They also don't care about the cars on the road, which isn't as great, since the geese just cross the street whenever it pleases them to do so.
+
+![Canada goose, closer](https://belmead.github.io/blog/images/geese-2.jpg "Canada goose, closer")
+
+Canada geese are characterized by:
+
+- Large size
+- Long black necks
+- Black heads with a white "chinstrap" marking
+- Tan-brown body feathers
+- Lighter colored breast
