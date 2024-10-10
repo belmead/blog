@@ -43,7 +43,16 @@ From our home's balcony in the suburbs, my wife took these pictures:
 
 ![A blue bird](https://belmead.github.io/blog/images/missouri-blue-bird-1.heic "A blue bird")
 
-This is an Eastern Bluebird, the state bird of Kansas since 1927.
+This is an Eastern Bluebird, the state bird of Missorui since 1927. It's also the state bird of New York.
+
+- Bright blue head and back
+- Ruddy breast
+- White rump
+- Prefers open areas
+- Eats insects, berries, and fruit
+- Songbird
+
+I built a birdhouse and mounted it to the fence line, and it took about a week before some of these Eastern Bluebirds moved in. The female built the nest in about 5 - 7 days. She used thatch from the pit.
 
 ![A red bird](https://belmead.github.io/blog/images/missouri-red-bird-1.heic "A red bird")
 
