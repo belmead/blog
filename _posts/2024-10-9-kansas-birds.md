@@ -73,3 +73,5 @@ Canada geese are characterized by:
 - Black heads with a white "chinstrap" marking
 - Tan-brown body feathers
 - Lighter colored breast
+
+We call these birds "honkies" because of their distinctive call. They fly in V-shaped wedge formations when a team of them is migrating. We often hear them before we see them.
