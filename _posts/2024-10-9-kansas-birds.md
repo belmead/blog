@@ -67,7 +67,7 @@ A House Finch. Probably a male (bright red coloration). House Finches are small 
 
 This is not a bird.
 
-This is Mammal, who lives in the pit? Dry retention pond? beyond our house. It's called Mammal because at the time we first saw him, neither my wife nor I knew what it was, so we settled on using the class name. We're now almost 100% positive Mammal is a woodchuck. They are also known as "whistlepigs." It has a funny run and eats flowers and grass.
+This is Mammal, who lives in the pit? Dry retention pond? beyond our house. It's called Mammal because at the time we first saw him, neither my wife nor I knew what it was, so we settled on using the class name. We're now almost 100% positive Mammal is a woodchuck. They are also known as "whistlepigs." It has a funny run and eats flowers and some grasses.
 
 ![Canada geese](https://belmead.github.io/blog/images/geese-1.jpg "Canada geese")
 
