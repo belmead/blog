@@ -21,7 +21,7 @@ The Lord's work is plainly evident on many mornings:
 
 It's growing cooler in the morning, so different birds are returning and leaving. I saw this one today:
 
-![Great Blue Heron](https://belmead.github.io/blog/images/kansas-bird-1.heic "Great Blue Heron")
+![Great Blue Heron](https://belmead.github.io/blog/images/kansas-bird-1.jpg "Great Blue Heron")
 
 ![Great Blue Heron, closer](https://belmead.github.io/blog/images/kansas-bird-1-larger.jpg "Great Blue Heron, closer")
 
