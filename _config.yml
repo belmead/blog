@@ -13,7 +13,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # An edit to add a favicon
 favicon:
-  source: favicon-48x48
+  source: favicon-48x48.png
 
 #
 # Flags below are optional
