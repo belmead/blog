@@ -11,6 +11,10 @@ description: tv party
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# An edit to add a favicon
+favicon:
+  source: favicon-48x48
+
 #
 # Flags below are optional
 #
