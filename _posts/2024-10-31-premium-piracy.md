@@ -9,7 +9,7 @@ On the [Hacker News-posted article](https://news.ycombinator.com/item?id=4199931
 
 Not a new idea, surely, and I've seen it often on YouTube comments for videos of similar topics, and I feel compelled to finally comment on it.
 
-I began pirating around 2000 or so. Napster sufficed for a few years, when individual songs sufficed, and before long I moved to torrents and uploading my own seeds. For a while, once I got a car, I frequently drove to Blockbuster to rent DVDs for movies I couldn't find torrents for so as to rip them with Gordion Knot and host them. My finest moment was uploading a vinyl rips of Lord Tariq and Peter Gunz's "Deja Vu (Uptown Baby)" b/w "Marmalade." I was convinced "Marmalade" was not available online prior to that point, as it wasn't (to the best f my knowledge) on the album <em>Make it Reign</em>, so I was doing heads a favor by rectifying that situation. A slightly wiser me knows this was wrong.
+I began pirating around 2000 or so. Napster was enough for a while, when individual songs sufficed, but before long I moved to torrents. For a while, after I got a car, I frequently drove to Blockbuster to rent DVDs for movies I couldn't find torrents for so as to rip them with Gordion Knot and host them. I reckon my finest moment was uploading a vinyl rips of Lord Tariq and Peter Gunz's "Deja Vu (Uptown Baby)" b/w "Marmalade." I was convinced "Marmalade" was not available online prior to that point, as it wasn't (to the best f my knowledge) on the album <em>Make it Reign</em>, so I was doing heads a favor by rectifying that situation. A slightly wiser me knows this was wrong.
 
 > Ownership is the premium version of a product.
 
