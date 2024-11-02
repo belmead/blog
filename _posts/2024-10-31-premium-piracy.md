@@ -17,7 +17,12 @@ I concur with bitsandboots on this point (see previous posts re: ownership)...
 
 > Turns out piracy is sometimes the only ownership option.
 
-... yet on this point I strongly disagree with bits. Regardless of how much you may want something, stealing it is not a justifiable option. To think — planting a flag on this point over <em>Grand Theft Auto</em>! Is the only other option in this scenario not to thieve? Where is the line in the sand on this — that is, what's the point of decision wherein it becomes an acceptable form of recourse to steal a thing, and does this decision framework extend to others? Say I decide I want — I just cannot live without! — your Toyota 4Runner. Is it acceptable to just steal it?
+... yet on this point I strongly disagree with bits. Regardless of how much you may want something, pirating is not a justifiable option. To think — planting a flag on this point over <em>Grand Theft Auto</em>! Is the only other option in this scenario not to thieve? Where is the line in the sand on this — that is, what's the point of decision wherein it becomes an acceptable form of recourse to steal a thing, and does this decision framework extend to others? Say I decide I want — I just cannot live without! — your Toyota 4Runner. Is it acceptable to just steal it?
+
+So we're clear on what I mean by "pirating:"
+
+> One type of copyright infringement is popularly known as piracy. This involves duplicating and distributing copyrighted materials without permission from the copyright holder.
+> [Piracy in the Entertainment Industry & Legal Penalties ](https://www.justia.com/entertainment-law/piracy-in-the-entertainment-industry/)
 
 I don't buy the digital vs. tangible goods division: That the difference in the 4Runner and a video game is that as a digital good, <em>GTA</em> is copyable with comparatively minimal effort. It's just bits and bytes, after all. This argument shifts the discussion away from when it's acceptable to steal to why it's acceptable to steal, which is some mighty serious conclusion jumping.
 
