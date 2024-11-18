@@ -3,8 +3,6 @@ layout: post
 title: Transcription with OpenAI's Whisper 
 ---
 
-## The Task
-
 Shortly before leaving work last Friday, I received an email with a request to use AI to transcribe some video. Note the request — to use AI to accomplish the task. The video was around two and a half hours long, so I would have chosen that route anyway, but a colleague and I had led the (semi-) monthly AI meeting two days prior to the request, so the idea of using AI where possible was fresh in everyone's head.
 
 ## The Planned Workflow
