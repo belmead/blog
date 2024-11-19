@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: Lines of Best Git
+title: Note-taking Software
 ---
 
 I'm on the hunt for a good note-taking application. This is my usage history:
@@ -62,6 +62,9 @@ This also means the lack of an editing panel. Obsidian is fairly clean...
 
 ...which is appreciated, as it's the single minimalist experience in my otherwise messy (thanks, Microsoft) work-tech stack. It does what it set out to do with nearly nonexistent "but wait, there's more!" action. I haven't fully explored backlinks, so commenting on how I feel about them would be premature.
 
+I like the approach Obsidian takes w/r/t no edit panel, but I quickly threw this together to show what one might look like:
+
+![Obsidian with edit panel](https://belmead.github.io/blog/images/markdown_edit_panel.jpg "Obsidian with edit panel")
 ## What's next?
 
 I think at this point any change from Obsidian would be akin to distro hopping — just using something else because it looks neat or if I get bored of Obsidian. It works perfectly well right now (I need to set git up so I can push directly to the blog, but that's a skill issue on my end). I've heard neat things about Joplin, but it looks too busy and I don't need anything like cloud sharing, collab, or multimedia notes. It would be an IDE to Obsidian's text editor for my use case, so I reckon I'll stay put for now.
