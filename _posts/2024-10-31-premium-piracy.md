@@ -34,7 +34,7 @@ As I was writing this post, another game was removed from the Steam Deck scene: 
 
 ## Update
 
-I was browsing Slashdot and found this:
+I was browsing Slashdot and found [this](https://yro.slashdot.org/story/24/11/20/1543236/half-of-young-norwegians-justify-piracy-as-streaming-costs-soar):
 
 ![Slashdot comment on piracy](https://belmead.github.io/blog/images/slashdot_piracy.png "Slashdot coment on piracy")
 
