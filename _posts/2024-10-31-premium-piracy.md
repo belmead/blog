@@ -7,7 +7,7 @@ On the [Hacker News-posted article](https://news.ycombinator.com/item?id=4199931
 
 ![Hacker News comment](https://belmead.github.io/blog/images/hacker-news-piracy.png "Hacker News comment")
 
-I'm starting to believe this is copypasta — I see this so often, nearly word-for-word each time. If it is copypasta, I'm officially out of touch. Even with the risk of Old Man Yells at Pirates, I'll go ahead with the critique.
+I'm starting to believe this is copypasta — I see this so often, nearly word-for-word each time. If it is copypasta, I'm officially out of touch. Even with the risk of Old Man Yells at Thieves, I'll go ahead with the critique.
 
 I began pirating around 2000 or so. Napster was enough for a while, when individual songs sufficed, but before long I moved to torrents. For a while, after I got a car, I frequently drove to Blockbuster to rent DVDs for movies I couldn't find torrents for so as to rip them with Gordion Knot and host them. I reckon my finest moment was uploading a vinyl rips of Lord Tariq and Peter Gunz's "Deja Vu (Uptown Baby)" b/w "Marmalade." I was convinced "Marmalade" was not available online prior to that point, as it wasn't (to the best f my knowledge) on the album <em>Make it Reign</em>, so I was doing heads a favor by rectifying that situation. A slightly wiser me knows this was wrong.
 
