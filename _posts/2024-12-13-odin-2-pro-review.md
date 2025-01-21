@@ -1,6 +1,7 @@
 ---  
 layout: post  
-title: Early Review — AYN Odin 2 Pro 
+title: Early Review — AYN Odin 2 Pro
+subhead: More-than-capable Handheld
 ---
 
 I received the most excellent AYN Odin 2 Pro from my lovely wife this Christmas, and this is an early review of the device (approx. 3 hours playing so far).
