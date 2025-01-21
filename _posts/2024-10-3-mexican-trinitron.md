@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mexican Trinitron
+subhead: I'm on a Mexican CRT
 ---
 
 h/t to @bennieiv for directing me to an estate sale with a 27" Sony WEGA Trinitron ($5!). The scanline geometry is a bit ...wonky, but easy to ignore. I lack the knowledge, time, tools, and interest to do anything about it, and for $5, what's the difference? It could very well be the case this is how all flat-panel CRTs look. 
