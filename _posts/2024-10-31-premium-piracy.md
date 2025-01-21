@@ -1,6 +1,7 @@
 ---  
 layout: post  
-title: Premium Piracy 
+title: Premium Piracy
+Subhead: I want it, give it to me
 ---
 
 On the [Hacker News-posted article](https://news.ycombinator.com/item?id=41999314 ) (originally found on [Gaming on Linux](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)), I found this comment:
@@ -40,4 +41,4 @@ I was browsing Slashdot and found [this](https://yro.slashdot.org/story/24/11/20
 
 > Piracy also provides a way of watching your content whenever you want and does not depend on the existence of upstream provider or whether they still have a license for it.
 
-My content...?
+"Your" content...?
