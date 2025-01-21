@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: Note-taking Software
+subhead: Notes on Notes
 ---
 
 I'm on the hunt for a good note-taking application. This is my usage history:
