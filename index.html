@@ -8,6 +8,10 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      {% if post.subhead %}
+        <h2 class="post-subhead">{{ post.subhead }}</h2>
+      {% endif %}
+      
       <div class="entry">
         {{ post.excerpt }}
       </div>
