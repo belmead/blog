@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Premium Piracy
-Subhead: I want it, give it to me
+subhead: I want it, give it to me
 ---
 
 On the [Hacker News-posted article](https://news.ycombinator.com/item?id=41999314 ) (originally found on [Gaming on Linux](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)), I found this comment:
