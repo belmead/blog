@@ -287,3 +287,10 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.post-subhead {
+  font-size: 1.1em;
+  color: #666;
+  margin-top: -10px;
+  margin-bottom: 15px;
+}
